@@ -1,0 +1,11 @@
+[Bookmarks]
+C:\devel\prototype\
+D:\_PROJECTS\Personal\ecorche_hou\
+[Recent]
+C:\Users\Administrator\AppData\Roaming\Blender Foundation\Blender\3.5\scripts\addons\
+C:\devel\prototype\ecor\geo\
+C:\Users\Administrator\Documents\
+D:\_PROJECTS\Personal\ecorche_hou\geo\f\
+C:\Users\Administrator\Desktop\
+C:\Users\Administrator\Desktop\modelsz\
+C:\mesh_check_gpu_edition\
